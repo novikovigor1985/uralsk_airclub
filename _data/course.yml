@@ -1,4 +1,11 @@
 modules:
+
+  - title: "Аэродинамика"
+  
+  - title: "Бланик Л-13"
+  
+  - title: "Самолетовождение"
+  
   - title: "Модуль 1. Полётные фантазии Игоря"
     lessons:
       - title: "Урок 1. Как посадить планер"
@@ -6,7 +13,7 @@ modules:
 
   - title: "Модуль 2. Походные фантазии Игоря"
     lessons:
-      - title: "Урок 3. Как отремонтировать вездеход"
+      - title: "Урок 2. Как отремонтировать вездеход"
         url: "https://iframe.mediadelivery.net/play/593908/7da69033-c357-4bbb-b594-19bf5524c2ba"
-      - title: "Урок 2. Как полюбить тундру"
+      - title: "Урок 3. Как полюбить тундру"
         url: "https://iframe.mediadelivery.net/play/593908/8c50da35-0cd1-497a-98d2-e422b6dafb5a"
