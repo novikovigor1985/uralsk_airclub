@@ -1,0 +1,35 @@
+---
+layout: none
+---
+
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Видеокурс</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; line-height: 1.45; }
+    details { margin: 10px 0; }
+    summary { cursor: pointer; font-weight: 600; }
+    ul { margin: 8px 0 0 18px; }
+    li { margin: 6px 0; }
+    a { text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Видеокурс</h1>
+
+  {% for m in site.data.course.modules %}
+    <details {% if forloop.first %}open{% endif %}>
+      <summary>{{ m.title }}</summary>
+      <ul>
+        {% for l in m.lessons %}
+          <li><a href="{{ l.url | escape }}" target="_blank" rel="noopener">{{ l.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </details>
+  {% endfor %}
+</body>
+</html>
