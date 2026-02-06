@@ -18,7 +18,7 @@
   <h1>Видеокурс</h1>
 
   {% for m in site.data.course.modules %}
-    <details {% if forloop.first %}open{% endif %}>
+    <details>
       <summary>{{ m.title }}</summary>
       <ul>
         {% for l in m.lessons %}
