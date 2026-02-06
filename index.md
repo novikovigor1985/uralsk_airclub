@@ -36,6 +36,5 @@ layout: none
     </details>
   {% endfor %}
 
-  <div class="note">Ссылки открываются в новой вкладке.</div>
 </body>
 </html>
