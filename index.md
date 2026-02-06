@@ -209,8 +209,6 @@ layout: none
         </details>
       {% endfor %}
     </div>
-
-    <footer>Если что-то не открывается: проверь ссылку в <code>_data/course.yml</code>.</footer>
   </div>
 </body>
 </html>
