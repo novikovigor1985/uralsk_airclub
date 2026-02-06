@@ -6,26 +6,33 @@
   <title>Видеокурс</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 24px; line-height: 1.45; }
+    h1 { margin: 0 0 16px; }
     details { margin: 10px 0; }
     summary { cursor: pointer; font-weight: 600; }
     ul { margin: 8px 0 0 18px; }
     li { margin: 6px 0; }
     a { text-decoration: none; }
     a:hover { text-decoration: underline; }
+    .note { color: #666; font-size: 14px; margin-top: 14px; }
   </style>
 </head>
+
 <body>
   <h1>Видеокурс</h1>
 
   {% for m in site.data.course.modules %}
-    <details {% if forloop.first %}open{% endif %}>
+    <details>
       <summary>{{ m.title }}</summary>
       <ul>
         {% for l in m.lessons %}
-          <li><a href="{{ l.url | escape }}" target="_blank" rel="noopener">{{ l.title }}</a></li>
+          <li>
+            <a href="{{ l.url | escape }}" target="_blank" rel="noopener">{{ l.title }}</a>
+          </li>
         {% endfor %}
       </ul>
     </details>
   {% endfor %}
+
+  <div class="note">Ссылки открываются в новой вкладке.</div>
 </body>
 </html>
