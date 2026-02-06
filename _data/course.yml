@@ -1,1 +1,12 @@
+modules:
+  - title: "Модуль 1. Полётные фантазии Игоря"
+    lessons:
+      - title: "Урок 1. Как посадить планер"
+        url: "https://iframe.mediadelivery.net/play/593908/20b2fea0-3b38-4c20-a82b-1f8b28946b25"
 
+  - title: "Модуль 2. Походные фантазии Игоря"
+    lessons:
+      - title: "Урок 3. Как отремонтировать вездеход"
+        url: "https://iframe.mediadelivery.net/play/593908/7da69033-c357-4bbb-b594-19bf5524c2ba"
+      - title: "Урок 2. Как полюбить тундру"
+        url: "https://iframe.mediadelivery.net/play/593908/8c50da35-0cd1-497a-98d2-e422b6dafb5a"
