@@ -7,6 +7,13 @@ modules:
   - title: "Модуль 3. Качество и пилотирование планера"
   
   - title: "Модуль 4. Штопор планера"
+    lessons:
+      - title: "1. Пилотаж, Перегрузка, Штопор"
+        url: "https://iframe.mediadelivery.net/play/593908/ee4e86ca-e1ad-4f5f-bc4f-10c0ea2e5362"
+      - title: "2. Штопор"
+        url: "https://iframe.mediadelivery.net/play/593908/78289600-698e-439c-9c13-407d5fa7f943"
+      - title: "3. Штопор"
+        url: "https://iframe.mediadelivery.net/play/593908/94042f3d-b36e-4005-8b7c-dcd4cb8bfd41"
   
   - title: "Модуль 1. Полётные фантазии Игоря"
     lessons:
