@@ -5,6 +5,21 @@ modules:
   - title: "Модуль 2. Планер Бланик Л-13"
   
   - title: "Модуль 3. Качество и пилотирование планера"
+    lessons:
+      - title: "1. Качество Планера"
+        url: "https://iframe.mediadelivery.net/play/593908/88c246b7-8457-4bbd-a42d-662bf740ba38"
+      - title: "2. Планирование Планера"
+        url: "https://iframe.mediadelivery.net/play/593908/88c246b7-8457-4bbd-a42d-662bf740ba38"
+      - title: "3. Указательница Скоростей Планирования"
+        url: "https://iframe.mediadelivery.net/play/593908/eda5ecc3-6924-40f4-aff7-8385ca07e037"
+      - title: "4. Равновесие, Устойчивость И Управляемость"
+        url: "https://iframe.mediadelivery.net/play/593908/4bd5e6e4-87ab-4870-87a4-7be966f50092"
+      - title: "5. Пилотирование Планера"
+        url: "https://iframe.mediadelivery.net/play/593908/ac289451-5789-4707-885e-7df24dea37ff"
+      - title: "6. Пилотирование Планера"
+        url: "https://iframe.mediadelivery.net/play/593908/ec5c49b5-49da-419a-bc61-869608077aec"
+      - title: "7. Пилотирование Планера"
+        url: "https://iframe.mediadelivery.net/play/593908/241f5e1c-e618-4dfb-93e9-a0e3f7637fb0"
   
   - title: "Модуль 4. Штопор планера"
     lessons:
