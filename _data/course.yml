@@ -3,6 +3,15 @@ modules:
   - title: "Модуль 1. Аэродинамика"
   
   - title: "Модуль 2. Планер Бланик Л-13"
+    lessons:
+      - title: "1. Кабина Планера"
+        url: "https://iframe.mediadelivery.net/play/593908/c9e1e1e6-3c74-4040-94fc-54ff6140d83c"
+      - title: "2. Механизация Крыла"
+        url: "https://iframe.mediadelivery.net/play/593908/dac33346-1aa8-4b7c-ae08-1d6148abac53"
+      - title: "3. Триммер Руля Высоты"
+        url: "https://iframe.mediadelivery.net/play/593908/def6f37a-3ae4-4a8c-bae4-e4b5fe872f23"
+      - title: "4. Управление и Конструкция"
+        url: "https://iframe.mediadelivery.net/play/593908/d6ba0f28-d16b-4c22-b8bd-ae06aa6ed439"
   
   - title: "Модуль 3. Качество и пилотирование планера"
     lessons:
@@ -24,8 +33,8 @@ modules:
   - title: "Модуль 4. Штопор планера"
     lessons:
       - title: "1. Пилотаж, Перегрузка, Штопор"
-        url: "https://iframe.mediadelivery.net/play/593908/ee4e86ca-e1ad-4f5f-bc4f-10c0ea2e5362"
+        url: ""
       - title: "2. Штопор"
-        url: "https://iframe.mediadelivery.net/play/593908/78289600-698e-439c-9c13-407d5fa7f943"
+        url: ""
       - title: "3. Штопор"
-        url: "https://iframe.mediadelivery.net/play/593908/94042f3d-b36e-4005-8b7c-dcd4cb8bfd41"
+        url: ""
